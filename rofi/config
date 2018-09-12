@@ -1,0 +1,18 @@
+! Rofi Configuration !
+! - Modes - !
+rofi.modi:			ssh,window,drun,run
+rofi.terminal:			termite
+rofi.ssh-client:		ssh
+rofi.sidebar-mode:		true
+
+! - Display - !
+rofi.font:			Verdana 15
+rofi.bg:			#a35400
+rofi.bg-active:			#a35400
+rofi.bg-urgent:			#ff5202
+rofi.fg:			#fcaf01
+rofi.fg-active:			#fcaf01
+rofi.fg-urgent:			#ff0000
+
+
+

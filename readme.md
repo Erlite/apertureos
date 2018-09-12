@@ -9,6 +9,14 @@ Example: `cat compton.conf > ~/.config/compton.conf`
 
 Remember to make backups in case of problems.
 
+# Neofetch Custom ASCII
+
+To use the custom ascii file `aperture.txt` do the following:
+
+```bash
+neofetch --ascii aperture.txt
+```
+
 # Info
 
 - OS: ArchLinux

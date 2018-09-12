@@ -1,6 +1,6 @@
 # Aperture OS
 
-This repository will contain the configuration files, the wallpaper and other miscelaneous things that'll allow you to rice your distro like mine.
+This repository will contain the configuration files, the wallpaper and other miscelaneous things that'll allow you to rice your distro like [mine](https://www.reddit.com/r/unixporn/comments/9er5t0/i3gaps_arch_my_first_rice_super_excited_aperture/).
 
 # How to install
 
@@ -28,6 +28,7 @@ neofetch --ascii aperture.txt
 - Audio: alsa
 - Launcher: rofi
 - Screenshot Utility: maim
+- System Info Gen: neofetch
 
 # Warning
 

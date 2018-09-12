@@ -2,6 +2,9 @@
 
 This repository will contain the configuration files, the wallpaper and other miscelaneous things that'll allow you to rice your distro like [mine](https://www.reddit.com/r/unixporn/comments/9er5t0/i3gaps_arch_my_first_rice_super_excited_aperture/).
 
+![screencap](https://i.imgur.com/ltkF5R3.png "Screenshot")
+
+
 # How to install
 
 Assuming you're on Linux, and assuming you have brain cells, copy each config into the corresponding file.

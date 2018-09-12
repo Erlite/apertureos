@@ -19,3 +19,10 @@ Remember to make backups in case of problems.
 - Font: Verdana
 - Audio: alsa
 - Launcher: rofi
+- Screenshot Utility: maim
+
+# Warning
+
+I didn't remove all commands from my packages inside the configs. You might be missing some packages. Make backups!
+The i3 config contains a shortcut (Mod1+Shift+P) to take a screenshot with maim
+

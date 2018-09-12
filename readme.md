@@ -11,4 +11,4 @@ This repository will contain the configuration files, the wallpaper and other mi
 - Compositor: compton
 - Font: Verdana
 - Audio: alsa
-
+- Launcher: rofi

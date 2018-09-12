@@ -38,3 +38,5 @@ neofetch --ascii aperture.txt
 I didn't remove all commands from my packages inside the configs. You might be missing some packages. Make backups!
 The i3 config contains a shortcut (Mod1+Shift+P) to take a screenshot with maim
 
+For any missing files, open an issue :D
+
